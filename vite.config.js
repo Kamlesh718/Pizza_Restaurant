@@ -8,7 +8,6 @@ export default defineConfig({
   optimizeDeps: {
     allowNodeBuiltins: ['unused-dep'],
   },
-  base: '/Pizza_Restaurant/',
   server: {
     hmr: { overlay: false },
   },
