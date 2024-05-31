@@ -1,5 +1,5 @@
 **Live Site:** 
-https://pizza-restaurant-teal.vercel.app/order/JOEWQU
+https://pizza-restaurant-teal.vercel.app
 
 # Homepage
 ![pizza-homepage](https://github.com/Kamlesh718/Pizza_Restaurant/assets/91180891/347767e0-42ff-4d12-8e1f-aa7741358db6)
